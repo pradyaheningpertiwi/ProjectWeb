@@ -72,7 +72,7 @@
                                 </td>
                                 <td style="padding:0px;margin:0px;">
                                     <p class="profile-title">Administrasi</p>
-                                    <p class="profile-subtitle">admin@edoc.com</p>
+                                    <p class="profile-subtitle">admin@bytehealth.com</p>
                                 </td>
                             </tr>
                             <tr>
